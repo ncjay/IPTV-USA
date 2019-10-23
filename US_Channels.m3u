@@ -6,13 +6,13 @@ http://193.200.164.146:8080/savskiii/ya4rnLjeAq/521
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/502
 #EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/541
-#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo
+#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7790
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",CW
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/543
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",CW
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7777
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Cartoon_Network_UK.png",Cartoon Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/523
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax 5 StarMax
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/507
@@ -28,9 +28,9 @@ http://193.200.164.146:8080/savskiii/ya4rnLjeAq/501
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7789
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Cinemax More
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7768
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Comedy Central FHD
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Comedy_Central.png",Comedy Central FHD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/542
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Comedy_Central.png",Comedy Central
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7788
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Channel CA FHD
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7580
