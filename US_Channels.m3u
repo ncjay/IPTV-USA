@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,#   HELLO   #
-http://193.200.164.146:8080/savskiii/ya4rnLjeAq/2519
-#EXTINF:-1,HELFJDLFJ
-http://
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/AMC.png",AMC
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/521
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Boomerang.png",Boomerang
