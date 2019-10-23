@@ -28,8 +28,6 @@ http://193.200.164.146:8080/savskiii/ya4rnLjeAq/501
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7789
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Cinemax More
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7768
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Comedy_Central.png",Comedy Central FHD
-http://193.200.164.146:8080/savskiii/ya4rnLjeAq/542
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Comedy_Central.png",Comedy Central
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7788
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",Discovery Channel CA FHD
