@@ -4,6 +4,11 @@
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/521
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Boomerang.png",Boomerang
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/502
+<channel id="Boomerang">
+    <display-name lang="en">Boomerang</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/boomerang.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
 #EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/541
 #EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bravo.png",Bravo Alt
