@@ -12,7 +12,7 @@ http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7790
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/543
 #EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CW.png",CW Alt
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7777
-#EXTINF:-1 tvg-id="Cartoon_Network" tvg-name="Cartoon Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Cartoon_Network_UK.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon_Network" tvg-name="Cartoon_Network" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Cartoon_Network_UK.png",Cartoon Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/523
 #EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png" group-title="PRIVATE-2",CineMax 5 StarMax
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/507
