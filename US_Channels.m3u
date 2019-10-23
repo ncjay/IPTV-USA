@@ -170,5 +170,5 @@ http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7705
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/7729
 #EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_Live-TV_Blue.png",USA Network
 http://193.200.164.146:8080/savskiii/ya4rnLjeAq/547
-#EXTINF:-1 tvg-id="The Weather Channel HD" tvg-name="The Weather Channel HD" tvg-type="live" group-title-"PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TheWeatherChannel.png
-" http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="The Weather Channel HD" tvg-name="The Weather Channel HD" tvg-type="live" group-title-"PRIVATE-2" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TheWeatherChannel.png"
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
